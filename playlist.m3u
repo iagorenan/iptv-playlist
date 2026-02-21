@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://embedtv.best/api/epgs"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml"
 #EXTINF:-1 tvg-id="bbbmosaico" tvg-name="BBB - Mosaico" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - Mosaico
 https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/8bd4bf54ea456fc91448170aae9d407e/bbbmosaico.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&http-referrer=https://www2.embedtv.best/
 #EXTINF:-1 tvg-id="bbb1" tvg-name="BBB - 1" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 1
@@ -245,3 +245,4 @@ https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/16c5492ad2843fca6
 https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/906527e0b0596d5882c460f10631270a/pt_eleven2.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&http-referrer=https://www2.embedtv.best/
 #EXTINF:-1 tvg-id="pt_eleven3" tvg-name="PT - Eleven 3" tvg-logo="https://embedtv.best/assets/images/eleven.png" group-title="Esportes",PT - Eleven 3
 https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/70da838c70c07e316f79f660bbe2220e/pt_eleven3.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&http-referrer=https://www2.embedtv.best/
+
