@@ -239,9 +239,10 @@ https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/fdee82566a340a47c
 https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/757c301532a3f21642e8072a623679d6/pt_sportv5.txt
 #EXTINF:-1 tvg-id="matrix1" tvg-name="Matrix" tvg-logo="https://logo.com/matrix.png" group-title="Filmes",Matrix
 https://site-de-filmes.com/assistir/matrix
-#EXTINF:-1 tvg-id="bb_s01e01" tvg-name="Breaking Bad" tvg-logo="" group-title="Series",Breaking Bad
-https://site-de-series.com/bb-s01e01
+#EXTINF:-1 tvg-id="bb_s01e01" tvg-name="teste" tvg-logo="" group-title="Series",Breaking Bad
+https://canais.fazoeli.co.za/token/132bb96792298891369916fbe97d2545/globoes.m3u8
 #EXTINF:-1 tvg-id="globo_extra" tvg-name="Canal Extra" tvg-logo="" group-title="TV Aberta",Canal Extra
 https://site-de-tv.com/player-globo
 #EXTINF:-1 tvg-id="video1" tvg-name="Video Direto" tvg-logo="" group-title="Diversos",Video Direto
 https://servidor.com/video.mp4
+
