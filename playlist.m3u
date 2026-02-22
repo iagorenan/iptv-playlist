@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="epg.xml"
 #EXTINF:-1 tvg-id="bbbmosaico" tvg-name="BBB - Mosaico" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - Mosaico
 https://d1muf25xa02so8hp22.s27-usa-cloudfront-net.online/token/8bd4bf54ea456fc91448170aae9d407e/bbbmosaico.m3u8
 #EXTINF:-1 tvg-id="bbb1" tvg-name="BBB - 1" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 1
