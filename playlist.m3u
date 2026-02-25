@@ -1,32 +1,30 @@
 #EXTM3U x-tvg-url="https://embedtv.best/api/epgs"
 #EXTINF:-1 tvg-id="bbbmosaico" tvg-name="BBB - Mosaico" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - Mosaico
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/8bd4bf54ea456fc91448170aae9d407e/bbbmosaico.m3u8
-#EXTINF:-1 tvg-id="bbb4" tvg-name="BBB - 4" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 4
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/944e4083a88a8e8b921b8783713097d7/bbb4.m3u8
-#EXTINF:-1 tvg-id="bbb1" tvg-name="BBB - 1" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 1
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/d9760ae3a038af4052067a9a44fb40dc/bbb1.m3u8
-#EXTINF:-1 tvg-id="bbb7" tvg-name="BBB - 7" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 7
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/e39995f9d5127752e6e3569285993fd1/bbb7.m3u8
-#EXTINF:-1 tvg-id="bbb3" tvg-name="BBB - 3" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 3
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/f433395f5532cdb3f2156cd543cda785/bbb3.m3u8
-#EXTINF:-1 tvg-id="bbb5" tvg-name="BBB - 5" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 5
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/4f0be8f087b6d30c95c289810b7287a5/bbb5.m3u8
-#EXTINF:-1 tvg-id="bbb6" tvg-name="BBB - 6" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 6
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/ef3c85cc29eec1d79cea1f7f792ee3a8/bbb6.m3u8
-#EXTINF:-1 tvg-id="bbb2" tvg-name="BBB - 2" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 2
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/9b1a17218ca70d89f6815474995075d5/bbb2.m3u8
 #EXTINF:-1 tvg-id="bbb8" tvg-name="BBB - 8" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 8
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/da3e323b775f0304914f0677442ba40c/bbb8.m3u8
 #EXTINF:-1 tvg-id="bbb9" tvg-name="BBB - 9" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 9
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/f1b3b93fa699f51ea922c4c7280f2167/bbb9.m3u8
+#EXTINF:-1 tvg-id="bbb7" tvg-name="BBB - 7" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 7
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/e39995f9d5127752e6e3569285993fd1/bbb7.m3u8
+#EXTINF:-1 tvg-id="bbb6" tvg-name="BBB - 6" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 6
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/ef3c85cc29eec1d79cea1f7f792ee3a8/bbb6.m3u8
+#EXTINF:-1 tvg-id="bbb4" tvg-name="BBB - 4" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 4
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/944e4083a88a8e8b921b8783713097d7/bbb4.m3u8
+#EXTINF:-1 tvg-id="bbb5" tvg-name="BBB - 5" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 5
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/4f0be8f087b6d30c95c289810b7287a5/bbb5.m3u8
+#EXTINF:-1 tvg-id="bbb2" tvg-name="BBB - 2" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 2
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/9b1a17218ca70d89f6815474995075d5/bbb2.m3u8
+#EXTINF:-1 tvg-id="bbb1" tvg-name="BBB - 1" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 1
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/d9760ae3a038af4052067a9a44fb40dc/bbb1.m3u8
 #EXTINF:-1 tvg-id="bbb10" tvg-name="BBB - 10" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 10
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/83a735c2ab00b1ee97286d87de6418f7/bbb10.m3u8
+#EXTINF:-1 tvg-id="bbb3" tvg-name="BBB - 3" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 3
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/f433395f5532cdb3f2156cd543cda785/bbb3.m3u8
 #EXTINF:-1 tvg-id="24h_dragonball" tvg-name="24H Dragon Ball Z" tvg-logo="https://embedtv.best/assets/images/24h.png" group-title="Variedades",24H Dragon Ball Z
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/d5e6572732d0cf4051bff40f446b5ee2/24h_dragonball.m3u8
 #EXTINF:-1 tvg-id="24h_odeiachris" tvg-name="24H Todo Mundo Odeia o Cris" tvg-logo="https://embedtv.best/assets/images/24h.png" group-title="Variedades",24H Todo Mundo Odeia o Cris
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/5e7a798315233fafd2de98c85bf41c29/24h_odeiachris.m3u8
-#EXTINF:-1 tvg-id="24h_simpsons" tvg-name="24H Os Simpsons" tvg-logo="https://embedtv.best/assets/images/24h.png" group-title="Variedades",24H Os Simpsons
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/c0f93e632ae8c5b7fb25307abca87e09/24h_simpsons.m3u8
 #EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://embedtv.best/assets/images/adultswim.png" group-title="Variedades",Adult Swim
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/e529461afad46808530348c65981bfad/adultswim.m3u8
 #EXTINF:-1 tvg-id="ae" tvg-name="AE" tvg-logo="https://embedtv.best/assets/images/ae.png" group-title="Filmes e Séries",AE
@@ -37,12 +35,14 @@ https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/5a967868f5d0af556
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/f76651329b7156981fa7c929b41d2248/aparecida.m3u8
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://embedtv.best/assets/images/axn.png" group-title="Filmes e Séries",AXN
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/fd982f6b79c6f0bc66e30d3d2da3eb3c/axn.m3u8
-#EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://embedtv.best/assets/images/band.png" group-title="Abertos",Band
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/61e056bb79a1f41bce5d5a2ccb54511d/band.m3u8
-#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://embedtv.best/assets/images/bandnews.png" group-title="Noticias",Band News
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/5b0451e8c165f25243ab33a2a5390597/bandnews.m3u8
 #EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports" tvg-logo="https://embedtv.best/assets/images/bandsports.png" group-title="Esportes",Band Sports
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/b79addc9ff766f89050c4ad6d58a4da1/bandsports.m3u8
+#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://embedtv.best/assets/images/bandnews.png" group-title="Noticias",Band News
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/5b0451e8c165f25243ab33a2a5390597/bandnews.m3u8
+#EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://embedtv.best/assets/images/band.png" group-title="Abertos",Band
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/61e056bb79a1f41bce5d5a2ccb54511d/band.m3u8
+#EXTINF:-1 tvg-id="24h_simpsons" tvg-name="24H Os Simpsons" tvg-logo="https://embedtv.best/assets/images/24h.png" group-title="Variedades",24H Os Simpsons
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/c0f93e632ae8c5b7fb25307abca87e09/24h_simpsons.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://embedtv.best/assets/images/cartoonito.png" group-title="Infantil",Cartoonito
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/7d51134a706a16795842a35dbe31896e/cartoonito.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://embedtv.best/assets/images/cartoonnetwork.png" group-title="Infantil",Cartoon Network
@@ -237,33 +237,33 @@ https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/cb88e964546f6cc6d
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/fdee82566a340a47c565f294f76660b2/pt_sportv4.m3u8
 #EXTINF:-1 tvg-id="pt_sportv5" tvg-name="PT - Sporttv 5" tvg-logo="https://embedtv.best/assets/images/sportv.png" group-title="Esportes",PT - Sporttv 5
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/757c301532a3f21642e8072a623679d6/pt_sportv5.m3u8
-#EXTINF:-1 tvg-id="rb_bragantino_x_athletico_pr" tvg-name="RB Bragantino X Athletico PR" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/XJiJn0P.png" group-title="Brasileirão Série A",RB Bragantino X Athletico PR
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/ad63745e5d7232034a78038ddd594448/premiere6.m3u8
-#EXTINF:-1 tvg-id="atalanta_x_borussia_dortmund" tvg-name="Atalanta X Borussia Dortmund" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Tyf3ZxZ.png" group-title="Champions League",Atalanta X Borussia Dortmund
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/b6bfd8830d2fa9a14d119beb60c1eccb/tnt.m3u8
-#EXTINF:-1 tvg-id="real_madrid_x_benfica" tvg-name="Real Madrid X Benfica" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/zfDScKv.png" group-title="Champions League",Real Madrid X Benfica
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/158a139a31f105fb08f4f68265a7bdf9/max1.m3u8
-#EXTINF:-1 tvg-id="juventus_x_galatasaray" tvg-name="Juventus X Galatasaray" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Ec3bGDZ.png" group-title="Champions League",Juventus X Galatasaray
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/b6bfd8830d2fa9a14d119beb60c1eccb/tnt.m3u8
-#EXTINF:-1 tvg-id="psg_x_monaco" tvg-name="PSG X Monaco" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/1dY4HGz.png" group-title="Champions League",PSG X Monaco
-https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/195fef3b206feffc48f8ad83f6bee491/space.m3u8
-#EXTINF:-1 tvg-id="bahia_x_o_higgins" tvg-name="Bahia X O'Higgins" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/VEfS3Cl.png" group-title="Copa Libertadores",Bahia X O'Higgins
+#EXTINF:-1 tvg-id="bahia_x_o_higgins" tvg-name="Bahia X O'Higgins" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/VEfS3Cl.png" group-title="Jogos de Hoje",Bahia X O'Higgins
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/6d47d5e4d8899c3e9b031e0d74e071a1/paramountplus.m3u8
-#EXTINF:-1 tvg-id="al_najma_x_al_nassr" tvg-name="Al Najma X Al-Nassr" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/PRq1WSz.png" group-title="Campeonato Saudita",Al Najma X Al-Nassr
+#EXTINF:-1 tvg-id="atalanta_x_borussia_dortmund" tvg-name="Atalanta X Borussia Dortmund" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Tyf3ZxZ.png" group-title="Jogos de Hoje",Atalanta X Borussia Dortmund
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/b6bfd8830d2fa9a14d119beb60c1eccb/tnt.m3u8
+#EXTINF:-1 tvg-id="real_madrid_x_benfica" tvg-name="Real Madrid X Benfica" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/zfDScKv.png" group-title="Jogos de Hoje",Real Madrid X Benfica
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/158a139a31f105fb08f4f68265a7bdf9/max1.m3u8
+#EXTINF:-1 tvg-id="juventus_x_galatasaray" tvg-name="Juventus X Galatasaray" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Ec3bGDZ.png" group-title="Jogos de Hoje",Juventus X Galatasaray
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/b6bfd8830d2fa9a14d119beb60c1eccb/tnt.m3u8
+#EXTINF:-1 tvg-id="psg_x_monaco" tvg-name="PSG X Monaco" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/1dY4HGz.png" group-title="Jogos de Hoje",PSG X Monaco
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/195fef3b206feffc48f8ad83f6bee491/space.m3u8
+#EXTINF:-1 tvg-id="al_najma_x_al_nassr" tvg-name="Al Najma X Al-Nassr" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/PRq1WSz.png" group-title="Jogos de Hoje",Al Najma X Al-Nassr
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/84a7ce80d3a46c58b6807e995472d673/pt_sportv1.m3u8
-#EXTINF:-1 tvg-id="remo_x_internacional" tvg-name="Remo X Internacional" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/OTV4w3q.png" group-title="Brasileirão Série A",Remo X Internacional
+#EXTINF:-1 tvg-id="rb_bragantino_x_athletico_pr" tvg-name="RB Bragantino X Athletico PR" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/XJiJn0P.png" group-title="Jogos de Hoje",RB Bragantino X Athletico PR
+https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/ad63745e5d7232034a78038ddd594448/premiere6.m3u8
+#EXTINF:-1 tvg-id="remo_x_internacional" tvg-name="Remo X Internacional" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/OTV4w3q.png" group-title="Jogos de Hoje",Remo X Internacional
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/726405144f689a317ca8bbe2bf166af0/sportv.m3u8
-#EXTINF:-1 tvg-id="coritiba_x_s_o_paulo" tvg-name="Coritiba X São Paulo" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/fVTPncZ.png" group-title="Brasileirão Série A",Coritiba X São Paulo
+#EXTINF:-1 tvg-id="coritiba_x_s_o_paulo" tvg-name="Coritiba X São Paulo" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/fVTPncZ.png" group-title="Jogos de Hoje",Coritiba X São Paulo
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/eccb85d1371d7aefc765b5ca56ef5bc5/primevideo.m3u8
-#EXTINF:-1 tvg-id="newells_old_boys_x_estudiantes" tvg-name="Newells Old Boys X Estudiantes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/bO21Wh7.png" group-title="Campeonato Argentino",Newells Old Boys X Estudiantes
+#EXTINF:-1 tvg-id="newells_old_boys_x_estudiantes" tvg-name="Newells Old Boys X Estudiantes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/bO21Wh7.png" group-title="Jogos de Hoje",Newells Old Boys X Estudiantes
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/6090ba46f4f49a9506262d372dad52e9/espn4.m3u8
-#EXTINF:-1 tvg-id="cruzeiro_x_corinthians" tvg-name="Cruzeiro X Corinthians" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/LFY70lQ.png" group-title="Brasileirão Série A",Cruzeiro X Corinthians
+#EXTINF:-1 tvg-id="cruzeiro_x_corinthians" tvg-name="Cruzeiro X Corinthians" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/LFY70lQ.png" group-title="Jogos de Hoje",Cruzeiro X Corinthians
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/1a48e0cb3db8ea94aab44a386fe39150/premiere.m3u8
-#EXTINF:-1 tvg-id="palmeiras_x_fluminense" tvg-name="Palmeiras X Fluminense" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/CLEXkQG.p´ng" group-title="Brasileirão Série A",Palmeiras X Fluminense
+#EXTINF:-1 tvg-id="palmeiras_x_fluminense" tvg-name="Palmeiras X Fluminense" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/CLEXkQG.p´ng" group-title="Jogos de Hoje",Palmeiras X Fluminense
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/6deaf97a72e4dd5dc90e17cf852178ec/globosp.m3u8
-#EXTINF:-1 tvg-id="gr_mio_x_atl_tico_mg" tvg-name="Grêmio X Atlético-MG" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/yDjyvvb.png" group-title="Brasileirão Série A",Grêmio X Atlético-MG
+#EXTINF:-1 tvg-id="gr_mio_x_atl_tico_mg" tvg-name="Grêmio X Atlético-MG" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/yDjyvvb.png" group-title="Jogos de Hoje",Grêmio X Atlético-MG
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/eff519737bef77ab450704beb0c58b6c/globors.m3u8
-#EXTINF:-1 tvg-id="botafogo_x_nacional_potosi" tvg-name="Botafogo X Nacional Potosi" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/JPapQiq.png" group-title="Copa Libertadores",Botafogo X Nacional Potosi
+#EXTINF:-1 tvg-id="botafogo_x_nacional_potosi" tvg-name="Botafogo X Nacional Potosi" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/JPapQiq.png" group-title="Jogos de Hoje",Botafogo X Nacional Potosi
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/fc805a089f4565d5da84fa1e17590938/espn.m3u8
-#EXTINF:-1 tvg-id="argentinos_jrs_x_barcelona_sc" tvg-name="Argentinos JRS X Barcelona SC" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Ql2IOcP.png" group-title="Copa Libertadores",Argentinos JRS X Barcelona SC
+#EXTINF:-1 tvg-id="argentinos_jrs_x_barcelona_sc" tvg-name="Argentinos JRS X Barcelona SC" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Ql2IOcP.png" group-title="Jogos de Hoje",Argentinos JRS X Barcelona SC
 https://d1muf25xa02so8hp25.s27-usa-cloudfront-net.online/token/6d47d5e4d8899c3e9b031e0d74e071a1/paramountplus.m3u8
