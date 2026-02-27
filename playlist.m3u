@@ -1,7 +1,10 @@
-#EXTM3U
-#EXTINF:0 tvg-id="bbb_cam03" tvg-name="BBB 26 CAM 03" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="TV AO VIVO",BBB 26 CAM 03
-#EXTGRP:TV AO VIVO
-https://streamtv.vodx.top/stream?q=Nmsw00ngJh2sTz_1_qvK8952pAKmDoCnDavmEe3yHJ1ecBJZHoUMm1fI3OTOA435_D5yv2k2ypClybhAOzMWMqgiVpY2uch1_Jy79foU0HEMJ_6eUeG7EuZF7zGdLmbiIEgYtd4-P9OhOUvj_Hw2sQ
-#EXTINF:0 tvg-id="bbb_cam04" tvg-name="BBB 26 CAM 04" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="TV AO VIVO",BBB 26 CAM 04
-#EXTGRP:TV AO VIVO
-https://streamtv.vodx.top/stream?q=6yHG_EZHf96LCUY9xitdfXl0A2rgsqEteuVGliC1yPhMjozAJcMvxSIFDGJLrfo3Mh7NvmsVBeiwv2RJRdRMc9USdJevIw9Ce20_AVPH7Wu4AlU8B7cZ27qL-6FZhq94_7RaRLb18Xb0PcoF6cyipQ
+#EXTM3U x-tvg-url="https://streamtv.vodx.top/api/epgs"
+#EXTINF:-1 tvg-id="7288922" tvg-name="Jogos do dia" tvg-logo="" group-title="Jogos do Dia",Jogos do dia
+#EXTGRP:Jogos do Dia
+https://streamtv.vodx.top/stream?q=KesYTqiHXkIJ81y1kKEuTY27Eo7aRK-kboCyB_Z3ShHw5GHHcBb9EFZAd2fttFxmw5fXHSRvfgqtGb_Ahr9gvJ3oD55q8uMiYgE-JajRxRaA3R9xu_QazRcuS8JzM8aaXgw6XpB7TfNR4AQ1qReAKg
+#EXTINF:-1 tvg-id="7111960" tvg-name="JOGOS DO DIA" tvg-logo="" group-title="⚽ GOLS DA RODADA",JOGOS DO DIA
+#EXTGRP:⚽ GOLS DA RODADA
+https://streamtv.vodx.top/stream?q=VIpbIVBdB15WozwHiMAtMqDnV8Xr8QqiLqeZ2fmbBqiFl_o2yK2M9zsdvEiYCMboirq5fQacWFZhxUCV7uYSZjMW0SbAuUOef8-2_TN4qA6I-dAHo04z97wWMeX0an-6E_lzJrEnQy79DQ-u767pgg
+#EXTINF:-1 tvg-id="7212108" tvg-name="BBB 26 CAM 01" tvg-logo="" group-title="BBB - 2026",BBB 26 CAM 01
+#EXTGRP:BBB - 2026
+https://streamtv.vodx.top/stream?q=zFuwWthzye-Xt8MTGlnlu5FgAUhcWy2NRkaxOgBXrqof1LoRz9WGoNdw03cihUjg9xdRVPWRSBuJ7d_kMPiR6_rf4GdUJAHgqqluQjMZiH-1wOyhaGUALk7GrvomGiHxBDx0Bpp54XdkOevu0oE7mw
