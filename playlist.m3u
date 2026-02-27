@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TESTE STREAMTV",BBB 26 CAM 02
-https://streamtv.vodx.top/stream?q=umZKWJTSPKawJ8LNXk_HEGIbgfuub8joCoUZJJe-gLBNJ__FAUHer4ope5ZF5FtJ1Yd85GDCph9caC7hdXk89AxEimek8pKPw_V3JveKEFEAQ8N0ZNgsPKEBMQS1ImTc2vrmXbRwVH8yv0OYOKhF5w
-#EXTINF:-1 group-title="TESTE STREAMTV",BBB 26 CAM 03
+#EXTINF:-1 tvg-name="BBB 26 CAM 03" tvg-type="live" type="live" group-title="TV AO VIVO",BBB 26 CAM 03 [ttfb 4.4s]
 https://streamtv.vodx.top/stream?q=Nmsw00ngJh2sTz_1_qvK8952pAKmDoCnDavmEe3yHJ1ecBJZHoUMm1fI3OTOA435_D5yv2k2ypClybhAOzMWMqgiVpY2uch1_Jy79foU0HEMJ_6eUeG7EuZF7zGdLmbiIEgYtd4-P9OhOUvj_Hw2sQ
-#EXTINF:-1 group-title="TESTE STREAMTV",BBB 26 CAM 04
+#EXTINF:-1 tvg-name="BBB 26 CAM 04" tvg-type="live" type="live" group-title="TV AO VIVO",BBB 26 CAM 04 [ttfb 2.5s]
 https://streamtv.vodx.top/stream?q=6yHG_EZHf96LCUY9xitdfXl0A2rgsqEteuVGliC1yPhMjozAJcMvxSIFDGJLrfo3Mh7NvmsVBeiwv2RJRdRMc9USdJevIw9Ce20_AVPH7Wu4AlU8B7cZ27qL-6FZhq94_7RaRLb18Xb0PcoF6cyipQ
