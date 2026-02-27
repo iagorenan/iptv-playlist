@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbb_cam03" tvg-name="BBB 26 CAM 03" tvg-logo="https://embedtv.best/assets/images/bbb.png" tvg-type="live" type="live" group-title="TV AO VIVO",BBB 26 CAM 03
+#EXTINF:0 tvg-id="bbb_cam03" tvg-name="BBB 26 CAM 03" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="TV AO VIVO",BBB 26 CAM 03
+#EXTGRP:TV AO VIVO
+https://streamtv.vodx.top/stream?q=Nmsw00ngJh2sTz_1_qvK8952pAKmDoCnDavmEe3yHJ1ecBJZHoUMm1fI3OTOA435_D5yv2k2ypClybhAOzMWMqgiVpY2uch1_Jy79foU0HEMJ_6eUeG7EuZF7zGdLmbiIEgYtd4-P9OhOUvj_Hw2sQ
+#EXTINF:0 tvg-id="bbb_cam04" tvg-name="BBB 26 CAM 04" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="TV AO VIVO",BBB 26 CAM 04
 #EXTGRP:TV AO VIVO
 https://streamtv.vodx.top/stream?q=6yHG_EZHf96LCUY9xitdfXl0A2rgsqEteuVGliC1yPhMjozAJcMvxSIFDGJLrfo3Mh7NvmsVBeiwv2RJRdRMc9USdJevIw9Ce20_AVPH7Wu4AlU8B7cZ27qL-6FZhq94_7RaRLb18Xb0PcoF6cyipQ
-
