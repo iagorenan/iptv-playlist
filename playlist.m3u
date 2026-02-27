@@ -1,10 +1,7 @@
-#EXTM3U x-tvg-url="https://embedtv.best/api/epgs"
-
+#EXTM3U x-tvg-url="https://streamtv.vodx.top/api/epgs"
 #EXTINF:-1 tvg-id="bbb5" tvg-name="BBB - 5" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 5
 https://streamtv.vodx.top/stream?q=ikbVP-hRyjfqk2DFnlbMD0H9O01U5yf_f8_35Xljc2o-Ef6wqgI0NlO7_6161nb2_uV2IQg02JQDNQ7cTRpCml7zhDb7Zqwf0OCjQK0VjRVIyO_IyI5R1BKz1Yh69SuUWw4MhMeZVyssqk06mEOrmOctXteSwNxywCf_9AsCAuQ#live.m3u8
-#EXTINF:-1 tvg-id="bbb5" tvg-name="BBB - 5" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 5
+#EXTINF:-1 tvg-id="globo_campinas_hd" tvg-name="REDE GLOBO EPTV CAMPINAS HD" tvg-logo="https://embedtv.best/assets/images/globo.png" group-title="CANAIS",REDE GLOBO EPTV CAMPINAS HD
 https://streamtv.vodx.top/stream?q=RX82lbHOdkpCddi4lbn7tMhMQcmuLgCL29JzFyP5flYdFwUnvm10oEkG8zAW0poOkZo6NreusFYbtJyyjSS0g-9UJXNafWu2zZVQsp7fw-6lpKO7o4HplvAGTWT9e7bwq0ctj0iWk_pL0TmzpcgnbfnH6oWB9IzXnAp7XJBYlAY#live.m3u8
-#EXTINF:-1 tvg-id="bbb5" tvg-name="BBB - 5" tvg-logo="https://embedtv.best/assets/images/bbb.png" group-title="BBB 2026",BBB - 5
+#EXTINF:-1 tvg-id="globo_campinas_sd" tvg-name="REDE GLOBO EPTV CAMPINAS SD" tvg-logo="https://embedtv.best/assets/images/globo.png" group-title="CANAIS",REDE GLOBO EPTV CAMPINAS SD
 https://streamtv.vodx.top/stream?q=I877pOe6BbPqUyggqq98zX773fRzS778P5FMj9rSktvivjUPAw0r7D3rZwFCopENLu1mMz3bOUhIg5K8SuzY5_z4oGwx4iXBpNI-l-DM-fFaAxMazKCkWehi8c1WdQCpAZyKNGXT98MY8L6klT8rKau2dxMPvm5JMhz_WvzGpFE#live.m3u8
-
-
